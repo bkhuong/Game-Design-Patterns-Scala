@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/gamedesignpatternsscala_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Flyweight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Flyweight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Mesh.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Mesh.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Terrain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Terrain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/CommandPattern.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/CommandPattern.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Flyweight$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Flyweight$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Vector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Vector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Tree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Tree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/TreeModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/TreeModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/CommandPattern$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/CommandPattern$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Flyweight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Flyweight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/TreeModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/TreeModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/World.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/World.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Texture.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Texture.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Terrain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Terrain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DesignPatterns/Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bkhuong/Desktop/GameDesignPatternsScala/target/scala-2.13/classes/DesignPatterns/Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

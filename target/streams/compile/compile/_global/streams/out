@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/bkhuong/Desktop/GameDesignPatternsScala/src/main/scala/DesignPatterns/Flyweight.scala:105:27: value isWater is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m  print(world.tiles(1)(1).isWater)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/bkhuong/Desktop/GameDesignPatternsScala/src/main/scala/DesignPatterns/Flyweight.scala:106:27: value movementCost is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m  print(world.tiles(1)(1).movementCost)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
